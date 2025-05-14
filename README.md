@@ -8,6 +8,11 @@
 
 ---
 
+##배선도
+![image](https://github.com/user-attachments/assets/aee11a14-5bed-45d6-8c95-930cbae06074)
+
+
+
 ## 🎥 시연 영상
 
 👉 [유튜브 시연 영상 보기](https://www.youtube.com/shorts/0uSrtAIPJ-I)
